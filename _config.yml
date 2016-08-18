@@ -1,0 +1,14 @@
+layout_spectrum: 0.1616541
+color:
+  saturation: 0.7187015
+  lightness: 0.4312567
+  brandStrength: 0.1815251
+  brandColors:
+    - '#FEFEFE'
+    - '#06060E'
+    - '#645E6C'
+    - '#9DDFFF'
+    - '#BB8466'
+  rhythmicContrast: 0.0905694
+typography_spectrum: 0.5203799
+name: HellaSober
